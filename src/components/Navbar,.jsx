@@ -11,20 +11,22 @@ const Navbar = () => {
                 <div class="collapse navbar-collapse" id="navbarColor02">
                     <ul class="navbar-nav ms-auto">
                         <li class="nav-item ms-4">
-                            <a class="nav-link active" href="#">Home
+                            <a class="nav-link active" href="/">Home
                                 <span class="visually-hidden">(current)</span>
                             </a>
                         </li>
                         <li class="nav-item ms-4">
-                            <a class="nav-link" href="#">Features</a>
+                            <a class="nav-link" href="#bio">About</a>
                         </li>
                         <li class="nav-item ms-4">
-                            <a class="nav-link" href="#">Pricing</a>
+                            <a class="nav-link" href="#projects">Projects</a>
                         </li>
                         <li class="nav-item ms-4">
-                            <a class="nav-link" href="#">About</a>
+                            <a class="nav-link" href="#skills">Skills</a>
                         </li>
-                       
+                        <li class="nav-item ms-4">
+                            <a class="nav-link" href="#contact">Contact</a>
+                        </li>                       
                     </ul>
                 </div>
             </div>

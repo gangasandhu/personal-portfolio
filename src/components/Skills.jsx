@@ -4,7 +4,7 @@ const Skills = () => {
 
     return (
 
-        <div class="container mt-5">
+        <div id='skills' class="container mt-5">
             <h2 class="text-center mb-4">Skills</h2>
             <div class="row">
                 <div class="col-md-6">
