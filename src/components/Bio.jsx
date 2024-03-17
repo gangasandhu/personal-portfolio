@@ -2,7 +2,7 @@ import React from "react";
 
 const Bio = () => {
     return (
-        <div className="bio-container w-50 m-auto p-4">
+        <div id="bio" className="bio-container w-50 m-auto p-4">
             <div className="bio-image">
                 <img
                     src="https://avatars.githubusercontent.com/u/115128873?v=4"
