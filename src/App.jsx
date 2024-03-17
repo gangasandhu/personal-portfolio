@@ -3,6 +3,7 @@ import './styles/App.css'
 import './styles/bootstrap.min.css'
 import Navbar from './components/Navbar,'
 import Bio from './components/Bio'
+import Projects from './components/Projects'
 
 function App() {
 
@@ -10,6 +11,8 @@ function App() {
     <>
       <Navbar />
       <Bio />
+      <hr/>
+      <Projects />
     </>
   )
 }
