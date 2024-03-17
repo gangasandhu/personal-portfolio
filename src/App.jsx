@@ -6,6 +6,7 @@ import Bio from './components/Bio'
 import Projects from './components/Projects'
 import Skills from './components/Skills'
 import Footer from './components/Footer'
+import Contact from './components/Contact'
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
       <hr/>
       <Projects />
       <Skills />
+      <Contact />
       <Footer />
     </>
   )
